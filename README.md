@@ -6,6 +6,7 @@ Penjelasan latihan1
 4. Yakni, fungsi yang akan menampilkan angka dibawah 0.5 secara acak.
 5. Fungsi random sudah otomatis ditampilkan. 
 6. Ketika anda sudah memberikan input nilai, maka akan langsung muncul data nilai random. 
+![](screenshot1.jpg)
 
 
 Penjelasan latihan2
@@ -14,10 +15,12 @@ Penjelasan latihan2
 3. Pengulangan akan berhenti ketika anda memasukkan angka 0 (nol).
 4. Lalu akan ditampilkan bilangan terbesar dari semua bilangan yang anda input. Untuk mencari bilangan terbesar dari banyaknya *
 5. bilangan menggunakan fungsi max. Berikut hasilnya : latihan 2 yang bener
+![](screenshot2.jpg)
 
 Penjelasan program1
 1. Modal awal pengusaha sebesar 100000000
 2. Untuk menghitung laba perbulan maka harus diinputkan terlebih dahulu besarnya presentase keuntungan perbulan.
 3. Selanjutnya, hasil laba perbulan akan ditampilkan. Disini anda bisa menggunakan looping berupa for, untuk menampilkan kembali jumlah
 4. laba yang telah dihitung berdasarkan presentasenya.
-5. Terakhir akan ditampilkan jumlah laba secara keseluruhan yang didapat dengan menggunakan sum. Berikut hasilnya : program 1
+5. Terakhir akan ditampilkan jumlah laba secara keseluruhan yang didapat dengan menggunakan sum.
+![](screenshot3.jpg)
