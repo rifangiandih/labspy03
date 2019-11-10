@@ -1,4 +1,4 @@
-abpy03
+labpy03
 Penjelasan latihan1
 1. Masukkan nilai input.
 2. Nilai input ini berfungsi untuk menampilkan banyak data. Anda bisa memasukkan nilai berapa saja.
